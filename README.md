@@ -30,9 +30,12 @@ Document Q&A pipeline with LangGraph RAG + reflection loop. Retrieves, generates
 ### [🛡️ Video Surveillance AI Agent](https://github.com/KhalidKhan541/Video-Surveillance-AI-Agent)
 Multi-agent YOLOv8 + LangGraph + Groq LLM system for real-time video threat detection with Streamlit dashboard.
 
+### [👁️ Face Recognition Attendance System](https://github.com/KhalidKhan541/face-recognition-attendance)
+LangGraph multi-agent attendance system with face detection, recognition, blink-based liveness verification, and SQLite logging. Built with OpenCV, dlib, and LangGraph StateGraph.
+
 ## 🛠️ Tech Stack
 
-Python LangGraph LangChain TensorFlow PyTorch YOLOv8 Cloudflare Workers FastAPI Streamlit Pandas SQL Tableau
+Python LangGraph LangChain TensorFlow PyTorch YOLOv8 Cloudflare Workers FastAPI Streamlit Pandas SQL Tableau OpenCV dlib
 
 ## 📫 Let's Work Together
 
