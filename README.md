@@ -33,6 +33,9 @@ Multi-agent YOLOv8 + LangGraph + Groq LLM system for real-time video threat dete
 ### [👁️ Face Recognition Attendance System](https://github.com/KhalidKhan541/face-recognition-attendance)
 LangGraph multi-agent attendance system with face detection, recognition, blink-based liveness verification, and SQLite logging. Built with OpenCV, dlib, and LangGraph StateGraph.
 
+### [🗣️ Speech-to-Action Router](https://github.com/KhalidKhan541/speech-to-action)
+Intelligent speech-to-action routing agent that analyzes transcribed speech, classifies intent into 13 categories, extracts structured parameters, and routes to action executors. Features dual classification (rule-based + LLM), clarification engine, and FastAPI REST API.
+
 ## 🛠️ Tech Stack
 
 Python LangGraph LangChain TensorFlow PyTorch YOLOv8 Cloudflare Workers FastAPI Streamlit Pandas SQL Tableau OpenCV dlib
