@@ -38,7 +38,7 @@ Intelligent speech-to-action routing agent that analyzes transcribed speech, cla
 
 ## 🛠️ Tech Stack
 
-Python LangGraph LangChain TensorFlow PyTorch YOLOv8 Cloudflare Workers FastAPI Streamlit Pandas SQL Tableau OpenCV dlib
+Python LangGraph LangChain TensorFlow PyTorch YOLOv8 Cloudflare Workers FastAPI Streamlit Pandas SQL Tableau OpenCV Matplotlib Plotly Seaborn Scikit-learn SQL MySQL Docker Githiub Actions(CI/CD pipelines)
 
 ## 📫 Let's Work Together
 
